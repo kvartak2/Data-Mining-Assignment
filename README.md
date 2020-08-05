@@ -7,20 +7,20 @@ Data mining tasks on WaterTreatment Dataset
 
 Need following libraries to run the code:
 
-import pandas as pd
+- import pandas as pd
 
-import numpy as np
+- import numpy as np
 
-from sklearn import preprocessing
+- from sklearn import preprocessing
 
-from pandas import DataFrame
+- from pandas import DataFrame
 
-import matplotlib.pyplot as plt
+- import matplotlib.pyplot as plt
 
-import seaborn as sns
+- import seaborn as sns
 
-from scipy import stats
+- from scipy import stats
 
-from sklearn.cluster import KMeans
+- from sklearn.cluster import KMeans
 
-from sklearn.decomposition import PCA
+- from sklearn.decomposition import PCA
